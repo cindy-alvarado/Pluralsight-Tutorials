@@ -1,4 +1,4 @@
-# Pluralsight-Tutorials
+# Pluralsight Tutorials
 
 Exercise files and notes from independent studies. 
 
